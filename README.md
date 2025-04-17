@@ -8,7 +8,7 @@ Per testare e provare il funzionamento del programma, ho istanziato alcuni ogget
 
 Poi ho testato la logica di prenotazione dei mezzi da parte degli utenti e l'aggiunta di nuovi mezzi alle città.
 
-Per vedere il funzionamento del programma si puo andare qui: https://codepen.io/Cristiano-Gheu/details/ZYYYzEg
+Per vedere il funzionamento del programma si puo andare qui: https://codepen.io/Cristiano-Gheu/pen/ZYYYzEg
 
 Se si vuole usare e provare il programma si deve installare il compilatore TypeScript, per farlo si deve lanciare il terminale su macOS e Linux o PowerShell su Windows e digitare il seguente comando:
 
