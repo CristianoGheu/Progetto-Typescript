@@ -18,4 +18,4 @@ Una volta ciò si puo controllare la versione di typescript digitando:
 
 tsc -v
 
-Una volta installato il compilatore Typescript, si puo andare su VScode 
+Una volta installato il compilatore Typescript, si puo scaricare il file app.ts e aprirlo su VScode
